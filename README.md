@@ -1,0 +1,2 @@
+# getExifThumb
+Get image thumbnail
